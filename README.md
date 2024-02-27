@@ -1,27 +1,19 @@
-# DesignAngularKitPlayground
+# Design Angular Kit Playground
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
+Questo progetto è il modo più semplice per iniziare a sperimentare con [Design Angular Kit](https://github.com/italia/design-angular-kit).
 
-## Development server
+## Server di sviluppo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Esegui `ng serve` per avviare il server di sviluppo. Passare a "http://localhost:4200/". L'applicazione si ricaricherà automaticamente se modifichi uno qualsiasi dei file sorgente.
 
-## Code scaffolding
+## Scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Esegui `ng generate component nome-componente` per generare un nuovo componente. Puoi anche usare `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Esegui `ng build` per buildare il progetto. La build risultante sarà presente nella directory `dist/`.
 
-## Running unit tests
+## Ulteriore aiuto
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Per ottenere ulteriore assistenza sulla CLI Angular utilizzare `ng help` o consultare la pagina [Panoramica della CLI Angular e riferimento ai comandi](https://angular.io/cli).
